@@ -117,4 +117,13 @@ Managing talent and stakeholder risks is crucial for the success of "Empowered F
 
 ---
 
+## Vocational Skill Presentation
+
+Due to size constraints, the presentation file `Vocational-skill(Ghana)-in-progress.pptx` has been hosted on an external storage service. You can download it using the following link:
+
+[Download Vocational Skill Presentation](https://example.com/link-to-your-file)
+
+Please let us know if you have any issues accessing the file.
+
+
 For more details and to contribute, please refer to the relevant sections of this repository.
